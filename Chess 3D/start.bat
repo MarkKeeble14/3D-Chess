@@ -1,1 +1,0 @@
-java -jar Chess-3D.jar
